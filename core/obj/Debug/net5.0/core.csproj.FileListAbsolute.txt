@@ -1,0 +1,15 @@
+/Users/simi/Documents/Projects/crypt_shop/core/bin/Debug/net5.0/core.deps.json
+/Users/simi/Documents/Projects/crypt_shop/core/bin/Debug/net5.0/core.dll
+/Users/simi/Documents/Projects/crypt_shop/core/bin/Debug/net5.0/ref/core.dll
+/Users/simi/Documents/Projects/crypt_shop/core/bin/Debug/net5.0/core.pdb
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.csprojAssemblyReference.cache
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.AssemblyInfoInputs.cache
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.AssemblyInfo.cs
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.csproj.CoreCompileInputs.cache
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.dll
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/ref/core.dll
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.pdb
+/Users/simi/Documents/Projects/crypt_shop/core/bin/Debug/net5.0/core.runtimeconfig.json
+/Users/simi/Documents/Projects/crypt_shop/core/bin/Debug/net5.0/core.runtimeconfig.dev.json
+/Users/simi/Documents/Projects/crypt_shop/core/obj/Debug/net5.0/core.genruntimeconfig.cache

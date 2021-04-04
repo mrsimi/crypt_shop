@@ -1,0 +1,15 @@
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/bin/Debug/net5.0/infrastructure.deps.json
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/bin/Debug/net5.0/infrastructure.dll
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/bin/Debug/net5.0/ref/infrastructure.dll
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/bin/Debug/net5.0/infrastructure.pdb
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.csprojAssemblyReference.cache
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.AssemblyInfoInputs.cache
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.AssemblyInfo.cs
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.csproj.CoreCompileInputs.cache
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.dll
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/ref/infrastructure.dll
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.pdb
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/bin/Debug/net5.0/core.dll
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/bin/Debug/net5.0/core.pdb
+/Users/simi/Documents/Projects/crypt_shop/infrastructure/obj/Debug/net5.0/infrastructure.csproj.CopyComplete
